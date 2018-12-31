@@ -5,9 +5,9 @@
 # 使用
 
 ```c sharp
-Any any = new Any(3.0f);
+XTC.Types.Any any = new XTC.Types.Any(3.0f);
 Debug.Log(any.IsFloat);
-Debug.Log(ant.AsFloat);
+Debug.Log(any.AsFloat);
 any.AsInt = 2;
 Debug.Log(any.IsInt);
 Debug.Log(any.AsInt);

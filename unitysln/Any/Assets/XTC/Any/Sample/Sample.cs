@@ -1,7 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using XTC.Data;
+using XTC.Types;
 
 public class Sample : MonoBehaviour {
 

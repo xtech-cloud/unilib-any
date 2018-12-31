@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace XTC.Data
+namespace XTC.Types
 {
     public class Any
     {
